@@ -70,11 +70,13 @@ Repositorio con fines académicos y educativos.
 /
 ├── MatiasPerezRomo-TIAYSO.pdf
 ├── README.md
-└── capturas/
-    ├── captura1.png
-    ├── captura2.png
-    ├── captura3.png
-    └── captura4.png
+└── Screenshot/
+    ├── Foto1.png
+    ├── Foto2.png
+    ├── Foto3.png
+    └── Foto4.png
+    ├── Foto5.png
+    ├── Foto6.png
 
 ## Documento Completo
 📄 Trabajo Práctico Integrador: [MatiasPerezRomo-TIAYSO.pdf](./MatiasPerezRomo-TIAYSO.pdf)
